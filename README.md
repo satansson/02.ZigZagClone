@@ -7,3 +7,6 @@ In here, I've learned how to:
 - work with basic lighting principles;
 - work with particle effects system;
 - build the game for PC (any OS).
+
+Check this out:
+https://play.unity.com/mg/other/webgl-builds-30891
